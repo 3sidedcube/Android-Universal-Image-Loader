@@ -45,3 +45,4 @@ android.libraryVariants.all { variant ->
 }
 
 apply from: '../gradle/maven_push.gradle'
+apply from: '../gradle/artifactory.gradle'
